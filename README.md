@@ -358,6 +358,4 @@ $ curl -is https://$TOKEN@service.com/users
 
 ### 译者注
 - 更新时间：`2014-06-11`
-- 此为本人第一篇翻译文档，翻译不好的地方，还望读者见谅.
-- 如果您觉得此文档对您帮助非常大，可以慰劳一下译者，[支付宝](http://blog.cocoajin.org/pay.html)
-
+- 好久没更新了...
